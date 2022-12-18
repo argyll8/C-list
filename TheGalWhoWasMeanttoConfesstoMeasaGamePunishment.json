@@ -44,6 +44,14 @@
                 "NO DHL": "/proxy/api/imgur/chapter/cCK6LU3/"
             },
             "last_updated": "1668870497"
+        },
+        "5": {
+            "title": "Chapter 5",
+            "volume": "No Volume",
+            "groups": {
+                "NO DHL": "/proxy/api/imgur/chapter/yemN0lM/"
+            },
+            "last_updated": "1671368400"
         }
     }
 }
